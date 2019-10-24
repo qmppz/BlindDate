@@ -1,7 +1,7 @@
 # BlindDate
 BlindDate for programmer
 
-# usage
+# Usage
 > ...
 
 # Q & A
